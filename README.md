@@ -49,3 +49,7 @@ Para realizar auditorias continuas de enlaces rotos en la nube:
 ## Asistencia Tecnica y Auditoria SEO
 
 Para proyectos integrales de saneamiento web conforme a Directrices de Calidad Web de la UE y Estandares W3C, consulte a **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
