@@ -1,14 +1,13 @@
 # Detector de Enlaces Rotos y Errores 404
 
 [![Detector Enlaces Rotos](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/es/detector-enlaces-rotos/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de hipervinculos internos y externos, codigos de estado HTTP y experiencia de navegacion.
 
-Desarrollado y mantenido por el equipo de calidad tecnica y SEO de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por el equipo de calidad tecnica y SEO de **TAVARDT Espana**.
 
----
+***
 
 ## Capacidades de Deteccion de Enlaces Rotos
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por el equipo de calidad tecnica y SEO de **[TAVARDT Es
 * **Comprobacion de Protocolo Seguro**: Alerta de referencias mixtas o enlaces que degradan de HTTPS a HTTP.
 * **Indice de Integridad de Enlaces**: Evaluacion cuantitativa de 0 a 100 con inventario de URLs fallidas.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python broken_links_scanner.py https://empresa.es
 Para generar la salida en formato JSON:
 
 ```bash
-python broken_links_scanner.py https://empresa.es --json
+python broken_links_scanner.py https://empresa.es -json
 ```
 
----
+***
 
 ## Plataforma Web Oficial
 
 Para realizar auditorias continuas de enlaces rotos en la nube:
 
-* **[Detector de Enlaces Rotos Oficial](https://tools.tavardt.com/es/detector-enlaces-rotos/)**
+* **Detector de Enlaces Rotos Oficial**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Asistencia Tecnica y Auditoria SEO
 
-Para proyectos integrales de saneamiento web conforme a Directrices de Calidad Web de la UE y Estandares W3C, consulte a **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para proyectos integrales de saneamiento web conforme a Directrices de Calidad Web de la UE y Estandares W3C, consulte a **TAVARDT Espana**.
