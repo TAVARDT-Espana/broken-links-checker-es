@@ -6,8 +6,6 @@
 
 Auditoria tecnica de hipervinculos internos y externos, codigos de estado HTTP y experiencia de navegacion.
 
-Desarrollado y mantenido por el equipo de calidad tecnica y SEO de **TAVARDT**.
-
 ***
 
 ## Capacidades de Deteccion de Enlaces Rotos
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://empresa.es -json
 
 ***
 
-## Plataforma Web Oficial
-
-Para realizar auditorias continuas de enlaces rotos en la nube:
-
-* **Detector de Enlaces Rotos Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Asistencia Tecnica y Auditoria SEO
 
 Para proyectos integrales de saneamiento web conforme a Directrices de Calidad Web de la UE y Estandares W3C, consulte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para proyectos integrales de saneamiento web conforme a Directrices de Calidad W
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
